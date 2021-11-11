@@ -15,7 +15,7 @@ This is an official pytorch implementation for "DU-DARTS: Decreasing the Uncerta
 ## Usage
 
 ### Model Evaluation
-Pre-trained checkpoints are released [here]().
+Pre-trained checkpoints are released [here](https://drive.google.com/drive/folders/1Re7b5wEcPP1GeRqL7Zh28LhsV2OKyfbM?usp=sharing).
 
 To evaluate a pre-trained DU-DARTS model on CIFAR-10, run:
 ```shell
