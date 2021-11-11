@@ -75,4 +75,4 @@ Please cite our paper if you find anything helpful.
 MIT License
 
 ## Acknowledgement
-This code is heavily borrowed from [DARTS](https://github.com/quark0/darts) and [SGAS](https://github.com/lightaime/sgas). Great thanks to them.
+This code is heavily borrowed from [DARTS](https://github.com/quark0/darts) and [SGAS](https://github.com/lightaime/sgas). Great thanks to their contributions.
